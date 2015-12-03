@@ -9,10 +9,10 @@
 | 22-07-2011 | Captain America, The First Avenger |
 | 13-09-2011 | Short: The Consultant |
 | 25-10-2011 | Short: A Funny Thing Happened on the Way to Thor's Hammer |
-| 04-05-2012 | The Avengers |
+| 04-05-2012 | Marvel's The Avengers |
 | 25-09-2012 | Short: Item 47 |
 | 03-05-2013 | Iron Man 3 |
-| 03-09-2013 | Short: Agent Carter |
+| 03-09-2013 | Short: Marvel's Agent Carter |
 | 24-09-2013 | Marvel's Agents of S.H.I.E.L.D. - S01E01: Pilot |
 | 01-10-2013 | Marvel's Agents of S.H.I.E.L.D. - S01E02: 0-8-4 |
 | 08-10-2013 | Marvel's Agents of S.H.I.E.L.D. - S01E03: The Asset |
@@ -49,33 +49,33 @@
 | 18-11-2014 | Marvel's Agents of S.H.I.E.L.D. - S02E08: The Things We Bury |
 | 02-12-2014 | Marvel's Agents of S.H.I.E.L.D. - S02E09: Ye Who Enter Here |
 | 09-12-2014 | Marvel's Agents of S.H.I.E.L.D. - S02E10: What They Become |
-| 06-01-2015 | Agent Carter - S01E01: Now Is Not the End |
-| 06-01-2015 | Agent Carter - S01E02: Bridge and Tunnel |
-| 13-01-2015 | Agent Carter - S01E03: Time and Time |
-| 27-01-2015 | Agent Carter - S01E04: The Blitzkrieg Button |
-| 03-02-2015 | Agent Carter - S01E05: The Iron Ceiling |
-| 10-02-2015 | Agent Carter - S01E06: A Sin to Err |
-| 17-02-2015 | Agent Carter - S01E07: SNAFU |
-| 24-02-2015 | Agent Carter - S01E08: Valediction |
+| 06-01-2015 | Marvel's Agent Carter - S01E01: Now Is Not the End |
+| 06-01-2015 | Marvel's Agent Carter - S01E02: Bridge and Tunnel |
+| 13-01-2015 | Marvel's Agent Carter - S01E03: Time and Time |
+| 27-01-2015 | Marvel's Agent Carter - S01E04: The Blitzkrieg Button |
+| 03-02-2015 | Marvel's Agent Carter - S01E05: The Iron Ceiling |
+| 10-02-2015 | Marvel's Agent Carter - S01E06: A Sin to Err |
+| 17-02-2015 | Marvel's Agent Carter - S01E07: SNAFU |
+| 24-02-2015 | Marvel's Agent Carter - S01E08: Valediction |
 | 03-03-2015 | Marvel's Agents of S.H.I.E.L.D. - S02E11: Aftershock |
 | 10-03-2015 | Marvel's Agents of S.H.I.E.L.D. - S02E12: Who You Really Are |
 | 17-03-2015 | Marvel's Agents of S.H.I.E.L.D. - S02E13: One of Us |
 | 24-03-2015 | Marvel's Agents of S.H.I.E.L.D. - S02E14: Love in the Time of Hydra |
 | 31-03-2015 | Marvel's Agents of S.H.I.E.L.D. - S02E15: One Door Closes |
 | 07-04-2015 | Marvel's Agents of S.H.I.E.L.D. - S02E16: Afterlife |
-| 10-04-2015 | Daredevil - S01E01: Into the Ring |
-| 10-04-2015 | Daredevil - S01E02: Cut Man |
-| 10-04-2015 | Daredevil - S01E03: Rabbit in a Snowstorm |
-| 10-04-2015 | Daredevil - S01E04: In the Blood |
-| 10-04-2015 | Daredevil - S01E05: World on Fire |
-| 10-04-2015 | Daredevil - S01E06: Condemned |
-| 10-04-2015 | Daredevil - S01E07: Stick |
-| 10-04-2015 | Daredevil - S01E08: Shadows in the Glass |
-| 10-04-2015 | Daredevil - S01E09: Speak of the Devil |
-| 10-04-2015 | Daredevil - S01E10: Nelson v. Murdock |
-| 10-04-2015 | Daredevil - S01E11: The Path of the Righteous |
-| 10-04-2015 | Daredevil - S01E12: The Ones We Leave Behind |
-| 10-04-2015 | Daredevil - S01E13: Daredevil |
+| 10-04-2015 | Marvel's Daredevil - S01E01: Into the Ring |
+| 10-04-2015 | Marvel's Daredevil - S01E02: Cut Man |
+| 10-04-2015 | Marvel's Daredevil - S01E03: Rabbit in a Snowstorm |
+| 10-04-2015 | Marvel's Daredevil - S01E04: In the Blood |
+| 10-04-2015 | Marvel's Daredevil - S01E05: World on Fire |
+| 10-04-2015 | Marvel's Daredevil - S01E06: Condemned |
+| 10-04-2015 | Marvel's Daredevil - S01E07: Stick |
+| 10-04-2015 | Marvel's Daredevil - S01E08: Shadows in the Glass |
+| 10-04-2015 | Marvel's Daredevil - S01E09: Speak of the Devil |
+| 10-04-2015 | Marvel's Daredevil - S01E10: Nelson v. Murdock |
+| 10-04-2015 | Marvel's Daredevil - S01E11: The Path of the Righteous |
+| 10-04-2015 | Marvel's Daredevil - S01E12: The Ones We Leave Behind |
+| 10-04-2015 | Marvel's Daredevil - S01E13: Marvel's Daredevil |
 | 14-04-2015 | Marvel's Agents of S.H.I.E.L.D. - S02E17: Melinda |
 | 21-04-2015 | Marvel's Agents of S.H.I.E.L.D. - S02E18: Frenemy of My Enemy |
 | 28-04-2015 | Marvel's Agents of S.H.I.E.L.D. - S02E19: The Dirty Half Dozen |
@@ -92,31 +92,31 @@
 | 03-11-2015 | Marvel's Agents of S.H.I.E.L.D. - S03E06: Among Us Hide... |
 | 10-11-2015 | Marvel's Agents of S.H.I.E.L.D. - S03E07: Chaos Theory |
 | 17-11-2015 | Marvel's Agents of S.H.I.E.L.D. - S03E08: Many Heads, One Tale |
-| 20-11-2015 | Jessica Jones - S01E01: AKA Ladies Night |
-| 20-11-2015 | Jessica Jones - S01E02: AKA Crush Syndrome |
-| 20-11-2015 | Jessica Jones - S01E03: AKA It's Called Whiskey |
-| 20-11-2015 | Jessica Jones - S01E04: AKA 99 Friends |
-| 20-11-2015 | Jessica Jones - S01E05: AKA The Sandwich Saved Me |
-| 20-11-2015 | Jessica Jones - S01E06: AKA You're a Winner! |
-| 20-11-2015 | Jessica Jones - S01E07: AKA Top Shelf Perverts |
-| 20-11-2015 | Jessica Jones - S01E08: AKA WWJD? |
-| 20-11-2015 | Jessica Jones - S01E09: AKA Sin Bin |
-| 20-11-2015 | Jessica Jones - S01E10: AKA 1,000 Cuts |
-| 20-11-2015 | Jessica Jones - S01E11: AKA I've Got the Blues |
-| 20-11-2015 | Jessica Jones - S01E12: AKA Take a Bloody Number |
-| 20-11-2015 | Jessica Jones - S01E13: AKA Smile |
+| 20-11-2015 | Marvel's Jessica Jones - S01E01: AKA Ladies Night |
+| 20-11-2015 | Marvel's Jessica Jones - S01E02: AKA Crush Syndrome |
+| 20-11-2015 | Marvel's Jessica Jones - S01E03: AKA It's Called Whiskey |
+| 20-11-2015 | Marvel's Jessica Jones - S01E04: AKA 99 Friends |
+| 20-11-2015 | Marvel's Jessica Jones - S01E05: AKA The Sandwich Saved Me |
+| 20-11-2015 | Marvel's Jessica Jones - S01E06: AKA You're a Winner! |
+| 20-11-2015 | Marvel's Jessica Jones - S01E07: AKA Top Shelf Perverts |
+| 20-11-2015 | Marvel's Jessica Jones - S01E08: AKA WWJD? |
+| 20-11-2015 | Marvel's Jessica Jones - S01E09: AKA Sin Bin |
+| 20-11-2015 | Marvel's Jessica Jones - S01E10: AKA 1,000 Cuts |
+| 20-11-2015 | Marvel's Jessica Jones - S01E11: AKA I've Got the Blues |
+| 20-11-2015 | Marvel's Jessica Jones - S01E12: AKA Take a Bloody Number |
+| 20-11-2015 | Marvel's Jessica Jones - S01E13: AKA Smile |
 | 01-12-2015 | Marvel's Agents of S.H.I.E.L.D. - S03E09: Closure |
 | 08-12-2015 | Marvel's Agents of S.H.I.E.L.D. - S03E10: Maveth |
-| 19-01-2015 | Agent Carter - S02E01: |
-| 19-01-2015 | Agent Carter - S02E02: |
-| 19-01-2015 | Agent Carter - S02E03: |
-| 19-01-2015 | Agent Carter - S02E04: |
-| 26-01-2015 | Agent Carter - S02E05: |
-| 02-02-2015 | Agent Carter - S02E06: |
-| 09-02-2015 | Agent Carter - S02E07: |
-| 16-02-2015 | Agent Carter - S02E08: |
-| 23-02-2015 | Agent Carter - S02E09: |
-| 01-03-2015 | Agent Carter - S02E10: |
+| 19-01-2015 | Marvel's Agent Carter - S02E01: |
+| 19-01-2015 | Marvel's Agent Carter - S02E02: |
+| 19-01-2015 | Marvel's Agent Carter - S02E03: |
+| 19-01-2015 | Marvel's Agent Carter - S02E04: |
+| 26-01-2015 | Marvel's Agent Carter - S02E05: |
+| 02-02-2015 | Marvel's Agent Carter - S02E06: |
+| 09-02-2015 | Marvel's Agent Carter - S02E07: |
+| 16-02-2015 | Marvel's Agent Carter - S02E08: |
+| 23-02-2015 | Marvel's Agent Carter - S02E09: |
+| 01-03-2015 | Marvel's Agent Carter - S02E10: |
 | 08-03-2016 | Marvel's Agents of S.H.I.E.L.D. - S03E11: |
 | 15-03-2016 | Marvel's Agents of S.H.I.E.L.D. - S03E12: |
 | 06-05-2016 | Captain America: Civil War |
@@ -132,5 +132,5 @@
 | 12-07-2019 | Inhumans |
 
 # Sources
-[Wikipedia](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe)
+[Wikipedia](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe)  
 [IMdb](https://imdb.com)
