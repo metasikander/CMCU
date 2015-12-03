@@ -1,4 +1,4 @@
-# CMCU
+# Chronological Marvel Cinematic Universe
 The Marvel Cinematic Universe in chronological order
 
 This is a project that tries to put the whole Marvel Cinematic Universe in chronological order.  
