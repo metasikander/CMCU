@@ -1,4 +1,4 @@
-# Loose chronological order of every film, episode and short without cutting into the original material
+# Loose chronological order of every film, episode and Marvel One-Shot without cutting into the original material
 
 1. Captain America, The First Avenger
 1. Marvel's Agent Carter - S01E01: Now Is Not the End
@@ -9,11 +9,15 @@
 1. Marvel's Agent Carter - S01E06: A Sin to Err
 1. Marvel's Agent Carter - S01E07: SNAFU
 1. Marvel's Agent Carter - S01E08: Valediction
+1. Marvel One-Shot: Marvel's Agent Carter
 1. Iron Man
-1. The Incredible Hulk
 1. Iron Man 2
+1. The Incredible Hulk
+1. Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer
 1. Thor
-1. Marvel's The Avengers
+1. Marvel One-Shot: The Consultant
+1. The Avengers
+1. Marvel One-Shot: Item 47
 1. Iron Man 3
 1. Marvel's Agents of S.H.I.E.L.D. - S01E01: Pilot
 1. Marvel's Agents of S.H.I.E.L.D. - S01E02: 0-8-4
@@ -59,9 +63,6 @@
 1. Marvel's Agents of S.H.I.E.L.D. - S02E17: Melinda
 1. Marvel's Agents of S.H.I.E.L.D. - S02E18: Frenemy of My Enemy
 1. Marvel's Agents of S.H.I.E.L.D. - S02E19: The Dirty Half Dozen
-1. Marvel's Agents of S.H.I.E.L.D. - S02E20: Scars
-1. Marvel's Agents of S.H.I.E.L.D. - S02E21: S.O.S. Part 1
-1. Marvel's Agents of S.H.I.E.L.D. - S02E22: S.O.S. Part 2
 1. Marvel's Daredevil - S01E01: Into the Ring
 1. Marvel's Daredevil - S01E02: Cut Man
 1. Marvel's Daredevil - S01E03: Rabbit in a Snowstorm
@@ -76,4 +77,14 @@
 1. Marvel's Daredevil - S01E12: The Ones We Leave Behind
 1. Marvel's Daredevil - S01E13: Marvel's Daredevil
 1. Avengers: Age of Ultron
+1. Marvel's Agents of S.H.I.E.L.D. - S02E20: Scars
+1. Marvel's Agents of S.H.I.E.L.D. - S02E21: S.O.S. Part 1
+1. Marvel's Agents of S.H.I.E.L.D. - S02E22: S.O.S. Part 2
+1. WHiH Newsfront: Promo
+1. WHiH Newsfront: Top Stories
+1. WHiH Newsfront: WHIH EXCLUSIVE- 2012 VistaCorp break-in security footage involving cyber-criminal Scott Lang
+1. WHIH EXCLUSIVE Scott Lang Interview
 1. Ant-Man
+
+# Sources
+[Wikia](http://marvelcinematicuniverse.wikia.com/wiki/Timeline)
