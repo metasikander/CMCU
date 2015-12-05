@@ -1,6 +1,6 @@
 # Loose chronological order of every film, episode and Marvel One-Shot without cutting into the original material
 
-1. Captain America, The First Avenger
+1. Captain America: The First Avenger
 1. Marvel's Agent Carter - S01E01: Now Is Not the End
 1. Marvel's Agent Carter - S01E02: Bridge and Tunnel
 1. Marvel's Agent Carter - S01E03: Time and Time
