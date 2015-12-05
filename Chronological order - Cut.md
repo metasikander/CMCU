@@ -5,7 +5,7 @@ Fill inn the source material, when the clip should start and when it should end,
 I do not recommend watching the MCU in this fashion before you have seen it in its original form first. The original material was made as it is for a reason.
 
 | Source material | Timestamp start | Timestamp end | Approximate in universe date |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | Thor: The Dark World | 0:00:00 | 0:03:39 | 2988 BC |
 | Thor | 0:03:20 | 0:05:51 | 965 |
 | Thor | 0:05:52 | 0:07:34 | 975 |
