@@ -127,6 +127,12 @@
 | 29-03-2016 | Marvel's Agents of S.H.I.E.L.D. - S03E14: Watchdogs | Series |
 | 05-04-2016 | Marvel's Agents of S.H.I.E.L.D. - S03E15: Spacetime | Series |
 | 12-04-2016 | Marvel's Agents of S.H.I.E.L.D. - S03E16: Paradise Lost | Series |
+| 19-04-2016 | Marvel's Agents of S.H.I.E.L.D. - S03E17: | Series |
+| 26-04-2016 | Marvel's Agents of S.H.I.E.L.D. - S03E18: | Series |
+| 03-05-2016 | Marvel's Agents of S.H.I.E.L.D. - S03E19: | Series |
+| 10-05-2016 | Marvel's Agents of S.H.I.E.L.D. - S03E20: | Series |
+| 17-05-2016 | Marvel's Agents of S.H.I.E.L.D. - S03E21: | Series |
+| 24-05-2016 | Marvel's Agents of S.H.I.E.L.D. - S03E22: | Series |
 | 06-05-2016 | Captain America: Civil War | Film |
 | 30-09-2016 | Luke Cage - S01E01: | Series |
 | 30-09-2016 | Luke Cage - S01E02: | Series |
