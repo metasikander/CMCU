@@ -111,19 +111,36 @@
 | 20-11-2015 | Marvel's Jessica Jones - S01E13: AKA Smile | Series |
 | 01-12-2015 | Marvel's Agents of S.H.I.E.L.D. - S03E09: Closure | Series |
 | 08-12-2015 | Marvel's Agents of S.H.I.E.L.D. - S03E10: Maveth | Series |
-| 19-01-2016 | Marvel's Agent Carter - S02E01: | Series |
-| 19-01-2016 | Marvel's Agent Carter - S02E02: | Series |
-| 19-01-2016 | Marvel's Agent Carter - S02E03: | Series |
-| 19-01-2016 | Marvel's Agent Carter - S02E04: | Series |
-| 26-01-2016 | Marvel's Agent Carter - S02E05: | Series |
-| 02-02-2016 | Marvel's Agent Carter - S02E06: | Series |
-| 09-02-2016 | Marvel's Agent Carter - S02E07: | Series |
-| 16-02-2016 | Marvel's Agent Carter - S02E08: | Series |
-| 23-02-2016 | Marvel's Agent Carter - S02E09: | Series |
-| 01-03-2016 | Marvel's Agent Carter - S02E10: | Series |
-| 08-03-2016 | Marvel's Agents of S.H.I.E.L.D. - S03E11: | Series |
-| 15-03-2016 | Marvel's Agents of S.H.I.E.L.D. - S03E12: | Series |
+| 19-01-2016 | Marvel's Agent Carter - S02E01: The Lady in the Lake | Series |
+| 19-01-2016 | Marvel's Agent Carter - S02E02: A View in the Dark | Series |
+| 26-01-2016 | Marvel's Agent Carter - S02E03: Better Angels | Series |
+| 02-02-2016 | Marvel's Agent Carter - S02E04: Smoke & Mirrors | Series |
+| 09-02-2016 | Marvel's Agent Carter - S02E05: The Atomic Job | Series |
+| 16-02-2016 | Marvel's Agent Carter - S02E06: Life of the Party | Series |
+| 16-02-2016 | Marvel's Agent Carter - S02E07: Monsters | Series |
+| 23-02-2016 | Marvel's Agent Carter - S02E08: The Edge of Mystery | Series |
+| 23-02-2016 | Marvel's Agent Carter - S02E09: A Little Song and Dance | Series |
+| 01-03-2016 | Marvel's Agent Carter - S02E10: Hollywood Ending | Series |
+| 08-03-2016 | Marvel's Agents of S.H.I.E.L.D. - S03E11: Bouncing Back | Series |
+| 15-03-2016 | Marvel's Agents of S.H.I.E.L.D. - S03E12: The Inside Man | Series |
+| 22-03-2016 | Marvel's Agents of S.H.I.E.L.D. - S03E13: Parting Shot | Series |
+| 29-03-2016 | Marvel's Agents of S.H.I.E.L.D. - S03E14: Watchdogs | Series |
+| 05-04-2016 | Marvel's Agents of S.H.I.E.L.D. - S03E15: Spacetime | Series |
+| 12-04-2016 | Marvel's Agents of S.H.I.E.L.D. - S03E16: Paradise Lost | Series |
 | 06-05-2016 | Captain America: Civil War | Film |
+| 30-09-2016 | Luke Cage - S01E01: | Series |
+| 30-09-2016 | Luke Cage - S01E02: | Series |
+| 30-09-2016 | Luke Cage - S01E03: Who's Gonna Take the Weight? | Series |
+| 30-09-2016 | Luke Cage - S01E04: | Series |
+| 30-09-2016 | Luke Cage - S01E05: | Series |
+| 30-09-2016 | Luke Cage - S01E06: | Series |
+| 30-09-2016 | Luke Cage - S01E07: | Series |
+| 30-09-2016 | Luke Cage - S01E08: | Series |
+| 30-09-2016 | Luke Cage - S01E09: | Series |
+| 30-09-2016 | Luke Cage - S01E10: | Series |
+| 30-09-2016 | Luke Cage - S01E11: | Series |
+| 30-09-2016 | Luke Cage - S01E12: | Series |
+| 30-09-2016 | Luke Cage - S01E13: | Series |
 | 04-11-2016 | Doctor Strange | Film |
 | 05-05-2017 | Guardians of the Galaxy Vol.2 | Film |
 | 20-07-2017 | Untitled Spiderman Film | Film |
@@ -134,6 +151,14 @@
 | 08-03-2019 | Captain Marvel | Film |
 | 03-05-2019 | Avengers: Infinity War - Part 2 | Film |
 | 12-07-2019 | Inhumans | Film |
+|  | The Defenders - S01E01: | Series |
+|  | The Defenders - S01E02: | Series |
+|  | The Defenders - S01E03: | Series |
+|  | The Defenders - S01E04: | Series |
+|  | The Defenders - S01E05: | Series |
+|  | The Defenders - S01E06: | Series |
+|  | The Defenders - S01E07: | Series |
+|  | The Defenders - S01E08: | Series |
 
 # Sources
 [Wikipedia](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe)  
